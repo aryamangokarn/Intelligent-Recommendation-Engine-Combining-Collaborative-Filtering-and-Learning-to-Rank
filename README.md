@@ -29,7 +29,9 @@ To get started with this project, follow these steps:
 
 1. Clone the repository
 2. Download the datasets (links provided in the project spec)
-2. Run the Jupyter notebook
+3. Run the Jupyter notebooks:-
+ - Recommender Systems (Part 1)
+ - Recommender Systems (Part 2) 
 
 The notebooks are self-contained and provide detailed explanations of each step.
 
